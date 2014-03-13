@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2be3b0c5-6f37-453c-bb6d-037a2c17cdeb" name="Default" comment="增加示例代码&#10;">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="SpringLdap.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored mask="*.iml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="D:\workspace_JavaSELearns\SpringLdap" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="SpringLdap" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="25" selection-start="1062" selection-end="1062" vertical-scroll-proportion="0.0" vertical-offset="160" max-vertical-offset="1740">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpringLdap.iml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SpringLdap.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1680">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersonRepo.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiongyingqi/repo/PersonRepo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="40" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersonRepoImpl.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiongyingqi/repo/PersonRepoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="134" column="57" selection-start="5037" selection-end="5037" vertical-scroll-proportion="0.0" vertical-offset="2280" max-vertical-offset="2940">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PropertiesNameCollect.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiongyingqi/util/PropertiesNameCollect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="31" selection-start="270" selection-end="278" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#234#242#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersonRepoTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/xiongyingqi/repo/PersonRepoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="0" selection-start="670" selection-end="670" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="820">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext-ldap.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-ldap.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="42" selection-start="894" selection-end="894" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="blademainer" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="SpringLdap" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/ConnectionTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/xiongyingqi/ConnectionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiongyingqi/PersonRepo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/xiongyingqi/PersonRepoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/xiongyingqi/BaseWebTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/xiongyingqi/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/applicationContext-ldap.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiongyingqi/repo/PersonRepo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/xiongyingqi/repo/PersonRepoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiongyingqi/model/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiongyingqi/util/PropertiesNameCollect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiongyingqi/repo/PersonRepoImpl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\software\apache-maven-3.1.1\repository" />
+        <option name="mavenHome" value="D:\software\apache-maven-3.1.1" />
+        <option name="userSettingsFile" value="D:\software\apache-maven-3.1.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="SpringLdap" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="SpringLdap" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="SpringLdap" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="960" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>AOP</id>
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Declaration redundancy</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Numeric issues</id>
+          </State>
+          <State>
+            <id>Performance issues</id>
+          </State>
+          <State>
+            <id>Probable bugs</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Serialization issues</id>
+          </State>
+          <State>
+            <id>Threading issues</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>XmlUnboundNsPrefix</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringLdap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringLdap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: org.apache.tika:tika-app:1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringLdap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringLdap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace_JavaSELearns\SpringLdap\src\test\java\com\xiongyingqi" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PersonRepoTest">
+    <configuration default="false" name="PersonRepoTest.testGetAllPersonNames" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.xiongyingqi.repo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="SpringLdap" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.xiongyingqi.repo" />
+      <option name="MAIN_CLASS_NAME" value="com.xiongyingqi.repo.PersonRepoTest" />
+      <option name="METHOD_NAME" value="testGetAllPersonNames" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PersonRepoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.xiongyingqi.repo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="SpringLdap" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.xiongyingqi.repo" />
+      <option name="MAIN_CLASS_NAME" value="com.xiongyingqi.repo.PersonRepoTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails" singleton="true">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" output_log_level="null" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.PersonRepoTest.testGetAllPersonNames" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.PersonRepoTest" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PersonRepoTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PersonRepoTest.testGetAllPersonNames" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2be3b0c5-6f37-453c-bb6d-037a2c17cdeb" name="Default" comment="" />
+      <created>1394594950416</created>
+      <updated>1394594950416</updated>
+      <workItem from="1394594951773" duration="1199000" />
+      <workItem from="1394596156554" duration="26498000" />
+      <workItem from="1394674923033" duration="10817000" />
+      <workItem from="1394695738383" duration="422000" />
+      <workItem from="1394696193080" duration="84000" />
+      <workItem from="1394696291497" duration="1794000" />
+      <workItem from="1394699043332" duration="10000" />
+      <workItem from="1394699557270" duration="64000" />
+      <workItem from="1394699635434" duration="7381000" />
+    </task>
+    <task id="LOCAL-00001" summary="增加示例代码">
+      <created>1394709375241</created>
+      <updated>1394709375241</updated>
+    </task>
+    <task id="LOCAL-00002" summary="增加示例代码">
+      <created>1394709409945</created>
+      <updated>1394709409945</updated>
+    </task>
+    <task id="LOCAL-00003" summary="增加示例代码&#10;">
+      <created>1394709830600</created>
+      <updated>1394709830600</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="48269000" />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="960" height="1040" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3291714" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33598185" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2211111" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.50555557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36008918" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="初始化" />
+    <MESSAGE value="增加示例代码" />
+    <MESSAGE value="增加示例代码&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加示例代码&#10;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="28" selection-start="1029" selection-end="1029" vertical-scroll-proportion="0.0" vertical-offset="160" max-vertical-offset="1740">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-ldap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="37" selection-start="932" selection-end="932" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xiongyingqi/repo/PersonRepoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="53" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiongyingqi/repo/PersonRepoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="5" selection-start="1506" selection-end="1506" vertical-scroll-proportion="0.0" vertical-offset="800" max-vertical-offset="1340">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-ldap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="37" selection-start="932" selection-end="932" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xiongyingqi/repo/PersonRepoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="585" selection-end="585" vertical-scroll-proportion="0.0" vertical-offset="440" max-vertical-offset="520">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.kingray:SpringLdap:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.kingray:SpringLdap:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.kingray:SpringLdap:1.0-SNAPSHOT</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.0.2.RELEASE/org.springframework:spring-aop:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE</node>
+            <node x="" y="">com.kingray:YIXUN_COMMON:jar:0.0.1-SNAPSHOT</node>
+            <node x="" y="">org.springframework:spring-test:jar:4.0.2.RELEASE/org.springframework:spring-core:jar:4.0.2.RELEASE</node>
+            <node x="-15.0" y="-15.0">org.springframework.ldap:spring-ldap-core-tiger:jar:2.0.1.RELEASE/org.springframework.ldap:spring-ldap-core:jar:2.0.1.RELEASE</node>
+            <node x="" y="">com.kingray:YIXUN_COMMON:jar:0.0.1-SNAPSHOT/org.javassist:javassist:jar:3.18.0-GA</node>
+            <node x="-15.0" y="-15.0">org.springframework:spring-context:jar:4.0.2.RELEASE/org.springframework:spring-aop:jar:4.0.2.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="" y="">org.unitils:unitils-core:jar:3.4</node>
+            <node x="" y="">org.unitils:unitils-core:jar:3.4/ognl:ognl:jar:2.6.9</node>
+            <node x="" y="">org.springframework.ldap:spring-ldap-core:jar:2.0.1.RELEASE/org.springframework:spring-tx:jar:3.2.8.RELEASE</node>
+            <node x="" y="">org.springframework:spring-core:jar:4.0.2.RELEASE/commons-logging:commons-logging:jar:1.1.3</node>
+            <node x="" y="">com.kingray:YIXUN_COMMON:jar:0.0.1-SNAPSHOT/org.apache.directory.studio:org.apache.commons.codec:jar:1.8/commons-codec:commons-codec:jar:1.8</node>
+            <node x="" y="">org.springframework.ldap:spring-ldap-core:jar:2.0.1.RELEASE/org.springframework.data:spring-data-commons:jar:1.6.1.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.1/org.slf4j:slf4j-api:jar:1.7.1</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.0.2.RELEASE/org.springframework:spring-core:jar:4.0.2.RELEASE</node>
+            <node x="" y="">com.kingray:YIXUN_COMMON:jar:0.0.1-SNAPSHOT/org.apache.tika:tika-parent:pom:1.4</node>
+            <node x="-15.0" y="-15.0">org.unitils:unitils:jar:3.4</node>
+            <node x="" y="">org.unitils:unitils-core:jar:3.4/commons-logging:commons-logging:jar:1.1</node>
+            <node x="" y="">org.springframework.ldap:spring-ldap-core:jar:2.0.1.RELEASE/org.springframework.data:spring-data-commons:jar:1.6.1.RELEASE/org.slf4j:slf4j-api:jar:1.7.1</node>
+            <node x="" y="">org.springframework.ldap:spring-ldap-core:jar:2.0.1.RELEASE/org.springframework.data:spring-data-commons:jar:1.6.1.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.1</node>
+            <node x="" y="">org.unitils:unitils-core:jar:3.4/junit:junit:jar:4.11</node>
+            <node x="" y="">junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="-15.0" y="-15.0">org.springframework:spring-context:jar:4.0.2.RELEASE</node>
+            <node x="" y="">org.unitils:unitils-core:jar:3.4/commons-collections:commons-collections:jar:3.2</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE/org.springframework:spring-core:jar:4.0.2.RELEASE</node>
+            <node x="" y="">org.springframework.ldap:spring-ldap-core:jar:2.0.1.RELEASE</node>
+            <node x="-15.0" y="-15.0">org.springframework.ldap:spring-ldap-core-tiger:jar:2.0.1.RELEASE</node>
+            <node x="" y="">org.unitils:unitils-core:jar:3.4/commons-lang:commons-lang:jar:2.3</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.0.2.RELEASE/org.springframework:spring-aop:jar:4.0.2.RELEASE/org.springframework:spring-core:jar:4.0.2.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE</node>
+            <node x="-15.0" y="-15.0">org.springframework:spring-context:jar:4.0.2.RELEASE/org.springframework:spring-aop:jar:4.0.2.RELEASE</node>
+            <node x="" y="">org.springframework:spring-test:jar:4.0.2.RELEASE</node>
+            <node x="" y="">com.kingray:YIXUN_COMMON:jar:0.0.1-SNAPSHOT/org.apache.directory.studio:org.apache.commons.codec:jar:1.8</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.0.2.RELEASE/org.springframework:spring-expression:jar:4.0.2.RELEASE/org.springframework:spring-core:jar:4.0.2.RELEASE</node>
+            <node x="" y="">junit:junit:jar:4.11</node>
+            <node x="" y="">org.springframework:spring-core:jar:4.0.2.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.0.2.RELEASE/org.springframework:spring-expression:jar:4.0.2.RELEASE</node>
+            <node x="" y="">org.springframework.ldap:spring-ldap-core:jar:2.0.1.RELEASE/org.springframework.data:spring-data-commons:jar:1.6.1.RELEASE</node>
+            <node x="" y="">org.springframework.ldap:spring-ldap-core-tiger:jar:2.0.1.RELEASE/org.springframework:spring-tx:jar:3.2.8.RELEASE</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.kingray:SpringLdap:1.0-SNAPSHOT" target="com.kingray:YIXUN_COMMON:jar:0.0.1-SNAPSHOT">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.kingray:YIXUN_COMMON:jar:0.0.1-SNAPSHOT" target="com.kingray:YIXUN_COMMON:jar:0.0.1-SNAPSHOT/org.apache.tika:tika-parent:pom:1.4">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.kingray:YIXUN_COMMON:jar:0.0.1-SNAPSHOT" target="com.kingray:YIXUN_COMMON:jar:0.0.1-SNAPSHOT/org.javassist:javassist:jar:3.18.0-GA">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="22" selection-start="573" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="1500">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xiongyingqi/repo/PersonRepoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="9" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="580">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiongyingqi/repo/PersonRepoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="57" selection-start="1328" selection-end="1386" vertical-scroll-proportion="0.0" vertical-offset="538" max-vertical-offset="1180">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xiongyingqi/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="14" selection-start="494" selection-end="494" vertical-scroll-proportion="0.0" vertical-offset="220" max-vertical-offset="380" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-ldap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="1106" selection-end="1106" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/apache-maven-3.1.1/repository/org/springframework/ldap/spring-ldap-core/2.0.1.RELEASE/spring-ldap-core-2.0.1.RELEASE-sources.jar!/org/springframework/ldap/core/support/SimpleDirContextAuthenticationStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="45" selection-start="629" selection-end="666" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="1220" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="21" selection-start="953" selection-end="953" vertical-scroll-proportion="0.0" vertical-offset="460" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="740" column="6" selection-start="36448" selection-end="36448" vertical-scroll-proportion="-8.498832" vertical-offset="22075" max-vertical-offset="44660" />
+      </provider>
+    </entry>
+    <entry file="file://D:/software/apache-maven-3.1.1/repository/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="63" selection-start="812" selection-end="812" vertical-scroll-proportion="0.608229" vertical-offset="0" max-vertical-offset="3080" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/apache-maven-3.1.1/repository/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE.jar!/org/springframework/stereotype/Component.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="18" selection-start="359" selection-end="359" vertical-scroll-proportion="-6.4" vertical-offset="0" max-vertical-offset="320" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/apache-maven-3.1.1/repository/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE.jar!/org/springframework/context/annotation/ComponentScan.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="18" selection-start="367" selection-end="367" vertical-scroll-proportion="0.33707866" vertical-offset="0" max-vertical-offset="900" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/apache-maven-3.1.1/repository/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE-sources.jar!/org/springframework/context/annotation/ComponentScan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="18" selection-start="2249" selection-end="2249" vertical-scroll-proportion="-2.8872988" vertical-offset="2274" max-vertical-offset="3140" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xiongyingqi/ConnectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="5" selection-start="206" selection-end="206" vertical-scroll-proportion="0.40145984" vertical-offset="0" max-vertical-offset="548" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/Java/jdk1.7.6_64bit/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="235" column="18" selection-start="10169" selection-end="10169" vertical-scroll-proportion="0.33211678" vertical-offset="4058" max-vertical-offset="10740" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/Java/jdk1.7.6_64bit/src.zip!/javax/naming/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1026" column="11" selection-start="42819" selection-end="42819" vertical-scroll-proportion="0.33333334" vertical-offset="19894" max-vertical-offset="21640" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/apache-maven-3.1.1/repository/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE-sources.jar!/org/springframework/stereotype/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="18" selection-start="1593" selection-end="1593" vertical-scroll-proportion="0.5060241" vertical-offset="268" max-vertical-offset="840" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/apache-maven-3.1.1/repository/com/kingray/YIXUN_COMMON/0.0.1-SNAPSHOT/YIXUN_COMMON-0.0.1-SNAPSHOT-sources.jar!/com/xiongyingqi/util/EntityHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="961" column="39" selection-start="26647" selection-end="26647" vertical-scroll-proportion="-0.41030928" vertical-offset="19059" max-vertical-offset="21500" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/apache-maven-3.1.1/repository/org/springframework/ldap/spring-ldap-core/2.0.1.RELEASE/spring-ldap-core-2.0.1.RELEASE-sources.jar!/org/springframework/ldap/core/support/SimpleDirContextAuthenticationStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="45" selection-start="629" selection-end="666" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/apache-maven-3.1.1/repository/org/springframework/ldap/spring-ldap-core/2.0.1.RELEASE/spring-ldap-core-2.0.1.RELEASE-sources.jar!/org/springframework/ldap/query/ConditionCriteria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="22" selection-start="1499" selection-end="1499" vertical-scroll-proportion="0.33195877" vertical-offset="359" max-vertical-offset="2100" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/apache-maven-3.1.1/repository/org/springframework/ldap/spring-ldap-core/2.0.1.RELEASE/spring-ldap-core-2.0.1.RELEASE-sources.jar!/org/springframework/ldap/core/SearchExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="17" selection-start="1316" selection-end="1316" vertical-scroll-proportion="0.23371647" vertical-offset="318" max-vertical-offset="840" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/Java/jdk1.7.6_64bit/jre/lib/rt.jar!/com/sun/jndi/ldap/LdapNamingEnumeration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="0" selection-start="2835" selection-end="2835" vertical-scroll-proportion="2.2789783" vertical-offset="0" max-vertical-offset="1280" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xiongyingqi/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="14" selection-start="494" selection-end="494" vertical-scroll-proportion="0.25821596" vertical-offset="0" max-vertical-offset="852" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/Java/jdk1.7.6_64bit/src.zip!/javax/naming/directory/DirContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="166" column="17" selection-start="6510" selection-end="6510" vertical-scroll-proportion="-3.8218925" vertical-offset="4920" max-vertical-offset="20440" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/apache-maven-3.1.1/repository/org/springframework/ldap/spring-ldap-core/2.0.1.RELEASE/spring-ldap-core-2.0.1.RELEASE-sources.jar!/org/springframework/ldap/core/DefaultNameClassPairMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="13" selection-start="967" selection-end="967" vertical-scroll-proportion="0.10946196" vertical-offset="221" max-vertical-offset="760" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/apache-maven-3.1.1/repository/org/slf4j/jcl-over-slf4j/1.7.5/jcl-over-slf4j-1.7.5-sources.jar!/org/apache/commons/logging/impl/SLF4JLocationAwareLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="0" selection-start="3944" selection-end="3944" vertical-scroll-proportion="4.155844" vertical-offset="0" max-vertical-offset="5020" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/apache-maven-3.1.1/repository/org/springframework/ldap/spring-ldap-core/2.0.1.RELEASE/spring-ldap-core-2.0.1.RELEASE-sources.jar!/org/springframework/ldap/core/LdapOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="775" column="63" selection-start="37174" selection-end="37174" vertical-scroll-proportion="0.0" vertical-offset="14581" max-vertical-offset="36660" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/apache-maven-3.1.1/repository/org/springframework/ldap/spring-ldap-core/2.0.1.RELEASE/spring-ldap-core-2.0.1.RELEASE-sources.jar!/org/springframework/ldap/core/LdapTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="707" column="60" selection-start="23419" selection-end="23419" vertical-scroll-proportion="0.0" vertical-offset="12182" max-vertical-offset="35260" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/apache-maven-3.1.1/repository/org/slf4j/jcl-over-slf4j/1.7.1/jcl-over-slf4j-1.7.1-sources.jar!/org/apache/commons/logging/impl/SLF4JLocationAwareLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="120" column="13" selection-start="3589" selection-end="3589" vertical-scroll-proportion="0.0" vertical-offset="1740" max-vertical-offset="5020" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/apache-maven-3.1.1/repository/org/apache/tika/tika-app/1.4/tika-app-1.4.jar!/org/slf4j/spi/LocationAwareLogger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="9" selection-start="334" selection-end="334" vertical-scroll-proportion="-9.6" vertical-offset="0" max-vertical-offset="380" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/apache-maven-3.1.1/repository/org/slf4j/slf4j-api/1.7.1/slf4j-api-1.7.1-sources.jar!/org/slf4j/spi/LocationAwareLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="860" />
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.kingray:SpringLdap:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.kingray:SpringLdap:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.kingray:SpringLdap:1.0-SNAPSHOT</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.0.2.RELEASE/org.springframework:spring-aop:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE</node>
+            <node x="" y="">com.kingray:YIXUN_COMMON:jar:0.0.1-SNAPSHOT</node>
+            <node x="" y="">org.springframework:spring-test:jar:4.0.2.RELEASE/org.springframework:spring-core:jar:4.0.2.RELEASE</node>
+            <node x="-15.0" y="-15.0">org.springframework.ldap:spring-ldap-core-tiger:jar:2.0.1.RELEASE/org.springframework.ldap:spring-ldap-core:jar:2.0.1.RELEASE</node>
+            <node x="" y="">com.kingray:YIXUN_COMMON:jar:0.0.1-SNAPSHOT/org.javassist:javassist:jar:3.18.0-GA</node>
+            <node x="-15.0" y="-15.0">org.springframework:spring-context:jar:4.0.2.RELEASE/org.springframework:spring-aop:jar:4.0.2.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="" y="">org.unitils:unitils-core:jar:3.4</node>
+            <node x="" y="">org.unitils:unitils-core:jar:3.4/ognl:ognl:jar:2.6.9</node>
+            <node x="" y="">org.springframework.ldap:spring-ldap-core:jar:2.0.1.RELEASE/org.springframework:spring-tx:jar:3.2.8.RELEASE</node>
+            <node x="" y="">org.springframework:spring-core:jar:4.0.2.RELEASE/commons-logging:commons-logging:jar:1.1.3</node>
+            <node x="" y="">com.kingray:YIXUN_COMMON:jar:0.0.1-SNAPSHOT/org.apache.directory.studio:org.apache.commons.codec:jar:1.8/commons-codec:commons-codec:jar:1.8</node>
+            <node x="" y="">org.springframework.ldap:spring-ldap-core:jar:2.0.1.RELEASE/org.springframework.data:spring-data-commons:jar:1.6.1.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.1/org.slf4j:slf4j-api:jar:1.7.1</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.0.2.RELEASE/org.springframework:spring-core:jar:4.0.2.RELEASE</node>
+            <node x="" y="">com.kingray:YIXUN_COMMON:jar:0.0.1-SNAPSHOT/org.apache.tika:tika-parent:pom:1.4</node>
+            <node x="-15.0" y="-15.0">org.unitils:unitils:jar:3.4</node>
+            <node x="" y="">org.unitils:unitils-core:jar:3.4/commons-logging:commons-logging:jar:1.1</node>
+            <node x="" y="">org.springframework.ldap:spring-ldap-core:jar:2.0.1.RELEASE/org.springframework.data:spring-data-commons:jar:1.6.1.RELEASE/org.slf4j:slf4j-api:jar:1.7.1</node>
+            <node x="" y="">org.springframework.ldap:spring-ldap-core:jar:2.0.1.RELEASE/org.springframework.data:spring-data-commons:jar:1.6.1.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.1</node>
+            <node x="" y="">org.unitils:unitils-core:jar:3.4/junit:junit:jar:4.11</node>
+            <node x="" y="">junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="-15.0" y="-15.0">org.springframework:spring-context:jar:4.0.2.RELEASE</node>
+            <node x="" y="">org.unitils:unitils-core:jar:3.4/commons-collections:commons-collections:jar:3.2</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE/org.springframework:spring-core:jar:4.0.2.RELEASE</node>
+            <node x="" y="">org.springframework.ldap:spring-ldap-core:jar:2.0.1.RELEASE</node>
+            <node x="-15.0" y="-15.0">org.springframework.ldap:spring-ldap-core-tiger:jar:2.0.1.RELEASE</node>
+            <node x="" y="">org.unitils:unitils-core:jar:3.4/commons-lang:commons-lang:jar:2.3</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.0.2.RELEASE/org.springframework:spring-aop:jar:4.0.2.RELEASE/org.springframework:spring-core:jar:4.0.2.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE</node>
+            <node x="-15.0" y="-15.0">org.springframework:spring-context:jar:4.0.2.RELEASE/org.springframework:spring-aop:jar:4.0.2.RELEASE</node>
+            <node x="" y="">org.springframework:spring-test:jar:4.0.2.RELEASE</node>
+            <node x="" y="">com.kingray:YIXUN_COMMON:jar:0.0.1-SNAPSHOT/org.apache.directory.studio:org.apache.commons.codec:jar:1.8</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.0.2.RELEASE/org.springframework:spring-expression:jar:4.0.2.RELEASE/org.springframework:spring-core:jar:4.0.2.RELEASE</node>
+            <node x="" y="">junit:junit:jar:4.11</node>
+            <node x="" y="">org.springframework:spring-core:jar:4.0.2.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.0.2.RELEASE/org.springframework:spring-expression:jar:4.0.2.RELEASE</node>
+            <node x="" y="">org.springframework.ldap:spring-ldap-core:jar:2.0.1.RELEASE/org.springframework.data:spring-data-commons:jar:1.6.1.RELEASE</node>
+            <node x="" y="">org.springframework.ldap:spring-ldap-core-tiger:jar:2.0.1.RELEASE/org.springframework:spring-tx:jar:3.2.8.RELEASE</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.kingray:SpringLdap:1.0-SNAPSHOT" target="com.kingray:YIXUN_COMMON:jar:0.0.1-SNAPSHOT">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.kingray:YIXUN_COMMON:jar:0.0.1-SNAPSHOT" target="com.kingray:YIXUN_COMMON:jar:0.0.1-SNAPSHOT/org.apache.tika:tika-parent:pom:1.4">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.kingray:YIXUN_COMMON:jar:0.0.1-SNAPSHOT" target="com.kingray:YIXUN_COMMON:jar:0.0.1-SNAPSHOT/org.javassist:javassist:jar:3.18.0-GA">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/Java/jdk1.7.6_64bit/src.zip!/javax/naming/directory/Attribute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="112" column="11" selection-start="4070" selection-end="4070" vertical-scroll-proportion="-1.6796117" vertical-offset="2525" max-vertical-offset="6340" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/Java/jdk1.7.6_64bit/src.zip!/javax/naming/directory/Attributes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="17" selection-start="1904" selection-end="1904" vertical-scroll-proportion="-1.1825243" vertical-offset="1469" max-vertical-offset="3240" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/apache-maven-3.1.1/repository/org/springframework/ldap/spring-ldap-core/2.0.1.RELEASE/spring-ldap-core-2.0.1.RELEASE-sources.jar!/org/springframework/ldap/query/LdapQueryBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="35" selection-start="2910" selection-end="2910" vertical-scroll-proportion="-6.1713147" vertical-offset="4218" max-vertical-offset="4720" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/apache-maven-3.1.1/repository/org/springframework/ldap/spring-ldap-core/2.0.1.RELEASE/spring-ldap-core-2.0.1.RELEASE.jar!/org/springframework/ldap/config/spring-ldap-2.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="94" selection-start="2394" selection-end="2394" vertical-scroll-proportion="0.4830827" vertical-offset="663" max-vertical-offset="9460" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiongyingqi/repo/PersonRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="40" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xiongyingqi/repo/PersonRepoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="670" selection-end="670" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="820">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiongyingqi/model/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="164" selection-end="164" vertical-scroll-proportion="0.33027524" vertical-offset="0" max-vertical-offset="1240">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#820#821#0" expanded="true" />
+            <element signature="e#858#859#0" expanded="true" />
+            <element signature="e#892#893#0" expanded="true" />
+            <element signature="e#946#947#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+            <element signature="e#1076#1077#0" expanded="true" />
+            <element signature="e#1142#1143#0" expanded="true" />
+            <element signature="e#1200#1201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/apache-maven-3.1.1/repository/org/springframework/ldap/spring-ldap-core/2.0.1.RELEASE/spring-ldap-core-2.0.1.RELEASE-sources.jar!/org/springframework/ldap/support/LdapUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="585" column="25" selection-start="24106" selection-end="24106" vertical-scroll-proportion="0.33211008" vertical-offset="10839" max-vertical-offset="14960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiongyingqi/util/PropertiesNameCollect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="31" selection-start="270" selection-end="278" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#234#242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiongyingqi/repo/PersonRepoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="134" column="57" selection-start="5037" selection-end="5037" vertical-scroll-proportion="0.0" vertical-offset="2280" max-vertical-offset="2940">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-ldap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="42" selection-start="894" selection-end="894" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="25" selection-start="1062" selection-end="1062" vertical-scroll-proportion="0.0" vertical-offset="160" max-vertical-offset="1740">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringLdap.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SpringLdap</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
