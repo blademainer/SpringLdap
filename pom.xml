@@ -16,18 +16,6 @@
     </properties>
     <dependencies>
         <dependency>
-            <groupId>com.kingray</groupId>
-            <artifactId>YIXUN_COMMON</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-            <exclusions>
-                <!--<exclusion>
-                    <artifactId>tika-app</artifactId>
-                    <groupId>org.apache.tika</groupId>
-                </exclusion>-->
-            </exclusions>
-        </dependency>
-
-        <dependency>
             <groupId>org.springframework.ldap</groupId>
             <artifactId>spring-ldap-core</artifactId>
             <version>${spring.ldap.version}</version>
@@ -77,6 +65,18 @@
             <groupId>org.unitils</groupId>
             <artifactId>unitils</artifactId>
             <version>${unitils.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.kingray</groupId>
+            <artifactId>YIXUN_COMMON</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+            <exclusions>
+                <!--<exclusion>
+                    <artifactId>tika-app</artifactId>
+                    <groupId>org.apache.tika</groupId>
+                </exclusion>-->
+            </exclusions>
         </dependency>
     </dependencies>
 </project>

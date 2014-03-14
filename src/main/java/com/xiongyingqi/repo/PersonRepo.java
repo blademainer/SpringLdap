@@ -10,4 +10,5 @@ import java.util.List;
 public interface PersonRepo {
     public List<String> getAllPersonNames();
     public List<Person> getAllPersons();
+    public void create(Person person);
 }

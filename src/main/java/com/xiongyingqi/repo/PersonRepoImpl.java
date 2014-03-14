@@ -132,7 +132,7 @@ public class PersonRepoImpl implements PersonRepo {
             while (all.hasMore()) {
                 Attribute id = all.next();
                 System.out.println(id.getID() + " ===== " + id.get());
-                PropertiesNameCollect.someName(id.getID());
+//                PropertiesNameCollect.someName(id.getID());
             }
 
             return attrs.get("cn").get().toString();
